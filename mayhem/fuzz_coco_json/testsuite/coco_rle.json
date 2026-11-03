@@ -1,0 +1,1 @@
+{"images": [{"id": 5, "file_name": "c.jpg", "width": 8, "height": 8}], "annotations": [{"id": 1, "image_id": 5, "category_id": 1, "bbox": [0, 0, 8, 8], "iscrowd": 1, "segmentation": {"counts": [10, 5, 49], "size": [8, 8]}}], "categories": [{"id": 1, "name": "x"}], "info": {"year": 2020}}
